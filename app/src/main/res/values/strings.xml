@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Gitfind</string>
+    <string name="search">Search</string>
+
+    <string name="search_hint">Input KeyWord</string>
+    <string name="tvusernamedetail">tvusernamedetail</string>
+    <string name="tvnamedetail">tvnamedetail</string>
+    <string name="tvrepodetail">tvrepodetail</string>
+    <string name="tvcompanydetail">tvcompanydetail</string>
+    <string name="tvlocationdetail">tvlocationdetail</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+    <string name="change_language_settings">Change Local Language</string>
+</resources>

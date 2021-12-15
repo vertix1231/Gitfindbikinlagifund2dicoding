@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gitfind</string>
+    <string name="search">cari</string>
+
+    <string name="search_hint">Masukkan kata</string>
+    <string name="tvusernamedetail">tvusernamedetail</string>
+    <string name="tvnamedetail">tvnamedetail</string>
+    <string name="tvrepodetail">tvrepodetail</string>
+    <string name="tvcompanydetail">tvcompanydetail</string>
+    <string name="tvlocationdetail">tvlocationdetail</string>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Pengikut</string>
+    <string name="tab_text_2">Mengikuti</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa Lokal</string>
+</resources>
